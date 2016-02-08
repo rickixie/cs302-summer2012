@@ -1,0 +1,35 @@
+rectangle 148 219 255 0 0 1 0.2
+rectangle 69 189 255 0 0.2 1 0.2
+rectangle 21 152 237 0 0.4 1 0.2
+rectangle 38 109 187 0 0.6 1 0.2
+rectangle 16 50 92 0 0.8 1 0.2
+rectangle 79 51 57 0 0 1 0.05
+rectangle 79 51 57 0 0.95 1 0.05
+triangle_right_up 147 53 63 0 0.05 0.1
+triangle_right_up 147 53 63 0.2 0.05 0.1
+triangle_right_up 147 53 63 0.4 0.05 0.1
+triangle_right_up 147 53 63 0.6 0.05 0.1
+triangle_right_up 147 53 63 0.8 0.05 0.1
+triangle 147 53 63 0.1 0.05 0.1
+triangle 147 53 63 0.3 0.05 0.1
+triangle 147 53 63 0.5 0.05 0.1
+triangle 147 53 63 0.7 0.05 0.1
+triangle 147 53 63 0.9 0.05 0.1
+triangle_right_down 147 53 63 0 0.85 0.1
+triangle_right_down 147 53 63 0.2 0.85 0.1
+triangle_right_down 147 53 63 0.4 0.85 0.1
+triangle_right_down 147 53 63 0.6 0.85 0.1
+triangle_right_down 147 53 63 0.8 0.85 0.1
+triangle_left_down 147 53 63 0.1 0.85 0.1
+triangle_left_down 147 53 63 0.3 0.85 0.1
+triangle_left_down 147 53 63 0.5 0.85 0.1
+triangle_left_down 147 53 63 0.7 0.85 0.1
+triangle_left_down 147 53 63 0.9 0.85 0.1
+square_ring 255 196 14 0.2 0.3 0.1
+square_ring 255 196 14 0.8 0.3 0.1
+square 232 142 119 0.45 0.3 0.1
+quadrant 227 208 195 0.45 0.4 0.1
+crescent 227 208 195 0.1 0.65 0.1
+crescent 227 208 195 0.9 0.65 0.1
+ring 43 21 44 0.5 0.7 0.15 0.075
+circle 227 208 195 0.5 0.7 0.075
